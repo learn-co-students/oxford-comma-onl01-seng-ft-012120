@@ -31,7 +31,7 @@ def oxford_comma(array)
       break if index == array.size - 1
       another_string += item + ", "
     end
-    another_string
+    
    end 
 end    
    
